@@ -32,5 +32,7 @@
   @yield('content')
 </main>
 @yield('scripts')
+
+<h1>テストです</h1>
 </body>
 </html>
