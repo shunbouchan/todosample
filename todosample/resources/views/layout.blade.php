@@ -33,6 +33,6 @@
 </main>
 @yield('scripts')
 
-<h1>テストです</h1>
+<h1>テストデバッがです</h1>
 </body>
 </html>
